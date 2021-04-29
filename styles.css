@@ -1,0 +1,30 @@
+tr,td,thead{
+    border:1px solid black;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+table{
+    background-color: peachpuff;
+}
+.asterisk{
+    color: red;;
+}
+.bluetext{
+    color: blue;
+}
+thead{
+    background-color: maroon;
+    color: white;
+}
+.underline{
+    text-decoration: underline;
+    color: orangered;
+}
+.aligncenterinput{
+    position: relative;
+    margin-left: 400px;
+    margin-right: 350px;
+}
+.aligncenterlabel{
+    margin-left: 435px;margin-right: 455px;
+}
